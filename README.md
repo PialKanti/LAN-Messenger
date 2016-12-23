@@ -13,7 +13,7 @@ Where server mainly handle the clients,connects them and decide the recipient to
 
 ## Feautres
 - Handles multiple users at the same time
-- Support for both public and private messages
+- Clients are handled via server
 - User signup and login available
 
 ## Workflow
