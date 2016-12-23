@@ -15,7 +15,7 @@ Where server mainly handle the clients,connects them and decide the recipient to
 - User signup and login available
 
 ## Workflow
-![Main Design](https://raw.githubusercontent.com/PialKanti/LAN-Messenger/master/design.PNG)
+![Main Design](https://raw.githubusercontent.com/PialKanti/LAN-Messenger/master/design.jpg)
 
 ## Demo
 
