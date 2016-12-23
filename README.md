@@ -19,6 +19,9 @@ Where server mainly handle the clients,connects them and decide the recipient to
 ## Workflow
 ![Main Design](https://raw.githubusercontent.com/PialKanti/LAN-Messenger/master/design.jpg)
 
+## Built With
+![Java](https://go.java/index.html?intcmp=gojava-banner-java-com)
+
 ## Demo
 
 ![Server](https://raw.githubusercontent.com/PialKanti/LAN-Messenger/master/demo1.png)
